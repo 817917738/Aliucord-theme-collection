@@ -1,0 +1,47 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Operatormeow",
+        "license": "Meow",
+        "name": "City Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/817917738\/Aliucord-theme-collection\/refs\/heads\/main\/city.jpg"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/raw.githubusercontent.com\/817917738\/Aliucord-theme-collection\/refs\/heads\/main\/city.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/CaioAlbuquerque123\/My-Aliucord-Themes\/raw\/main\/Bi_polarHandwriting-Regular_EXCLUSIVE-2.ttf"
+    },
+    "simple_colors": {
+        "active_channel": 1878394,
+        "accent": 2542933,
+        "mention_highlight": 1908255,
+        "background": 3531670,
+        "background_secondary": 86830713
+    },
+    "colors": {
+        "brand": -635625953,
+        "brand_new_500": -1020646355,
+        "primary_dark_400": -669180385,
+        "primary_dark_360": -1104730071,
+        "uikit_btn_compound_color_selector_dark": -367190497,
+        "primary_dark_300": -1088610785,
+        "uikit_btn_compound_color_selector_light": -1357046241,
+        "uikit_settings_item_text_color_dark": -249749985,
+        "uikit_settings_item_text_color_light": -970558494,
+        "abc_tint_switch_track": -2044912097,
+        "link": -651547603,
+        "link_500": -753066465,
+        "primary_dark_200": -13027015,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -482943662,
+        "ic_sidebar_notifications_off_dark_24dp": -1103503457,
+        "ic_sidebar_pins_off_dark_24dp": -1100226759,
+        "ic_sidebar_pins_on_dark_24dp": -482943662,
+        "ic_thread": -247605915
+    },
+    "raws": {}
+}
